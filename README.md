@@ -9,18 +9,24 @@ The Pyhub Foods live demo can be [viewed online here](https://pyhub-foods.vercel
 
 Here are screenshots that shows Pyhub Foods demo application in use.
 
-**Home Page**
-![Home Page](/screenshots/homePage.png?raw=true "Optional Title")
+**Desktop View**
+-----------------------------------------------------------------------------------------------------
+<img src="./public/images/Screenshot (315).png" alt="Desktop View" title="Desktop View">
 
----
 
-**Item Detail Page**
-![Item Detail](/screenshots/itemDetail.png?raw=true "Optional Title")
+**Medium Screen View**
+-----------------------------------------------------------------------------------------------------
+<img src="./public/images/Screenshot (317).png" alt="Medium Screen View" title="Medium Screen View">
 
----
 
-**Shopping Cart**
-![Shopping Cart](/screenshots/shoppingCart.png?raw=true "Shopping Cart")
+**Small Screen View**
+----------------------------------------------------------------------------------------------------
+<img src="./public/images/Screenshot (318).png" alt="Small Screen View" title="Small Screen View">
+
+
+**Active Class Style and Opened Menu**
+----------------------------------------------------------------------------------------------------
+<img src="./public/images/Screenshot (320).png" alt="Site State" title="Site State">
 
 ## Getting Started
 To get started  you can simply clone this `Pyhub-foods` repository and install the dependencies.
