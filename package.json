@@ -1,7 +1,7 @@
  {
 
   "scripts": {
-    "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css "
+    "dev": "tailwindcss build ./src/input.css -o ./dist/output.css "
   },
   "keywords": [],
   "author": "",
