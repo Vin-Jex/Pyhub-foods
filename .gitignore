@@ -1,8 +1,6 @@
 # dependencies
 /node_modules
 
-package.json
-
 
 # misc
 .DS_Store
